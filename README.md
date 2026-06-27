@@ -1,30 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-</head>
+# The Collector's Cellar
 
-<body>
+*A Living Reference on Fine Wine, Auctions, Provenance, and Collecting*
 
-<h1>The Collector's Cellar</h1>
+---
 
-<h2>A Living Encyclopedia of Fine Wine</h2>
+## Vision
 
-<p>
-Fine Wine • Auctions • Provenance • Collecting • Producer Histories
-</p>
+The Collector's Cellar is an evolving digital reference dedicated to the study of fine wine. It combines history, economics, viticulture, auction markets, collector psychology, producer profiles, and practical sommelier knowledge into a single, continuously expanding work.
 
-<hr>
+This repository serves as the master source for all future editions.
 
-<p>
+---
+
+## Status
+
 Version 0.1
-</p>
 
-<p>
-Created by Keaton Maddox
-</p>
+Project initiated June 2026.
 
-</body>
-</html>
+---
+
+## Planned Books
+
+- Book I – Foundations
+- Book II – Economics
+- Book III – Auctions
+- Book IV – Producers
+- Book V – Regions
+- Book VI – Vintages
+- Book VII – Provenance
+- Book VIII – Counterfeits
+- Book IX – Collector Psychology
+- Book X – Sommelier Practice
